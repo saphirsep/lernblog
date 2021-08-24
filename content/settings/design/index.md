@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/gems-1-.png"
 logo = "/media/gems-1-.png"
-image = "/media/photo-1615505993959-46e53e60e90f.jfif"
+image = "/media/pexels-david-skyrius-80277-1-.jpg"
 color = ""
 +++
